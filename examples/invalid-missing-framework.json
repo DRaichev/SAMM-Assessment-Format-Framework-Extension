@@ -1,0 +1,17 @@
+{
+  "_comment": "INVALID: Missing required 'assessmentFramework' field",
+  "formatVersion": "1.0.0",
+  "assessment": {
+    "version": "1.0.0",
+    "organization": "Example Corporation",
+    "scope": "Product Development Team",
+    "date": "2025-01-15",
+    "answers": [],
+    "extensions": [
+      {
+        "name": "Assessment Framework",
+        "version": "1.0.0"
+      }
+    ]
+  }
+}

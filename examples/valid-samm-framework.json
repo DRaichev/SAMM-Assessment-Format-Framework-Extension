@@ -1,0 +1,20 @@
+{
+  "formatVersion": "1.0.0",
+  "assessment": {
+    "version": "1.0.0",
+    "organization": "Example Corporation",
+    "scope": "Product Development Team",
+    "date": "2025-01-15",
+    "answers": [
+      {"questionCode": "G-SM-A-1", "answerScore": 0.5},
+      {"questionCode": "G-SM-A-2", "answerScore": 0.25}
+    ],
+    "extensions": [
+      {
+        "name": "Assessment Framework",
+        "version": "1.0.0",
+        "assessmentFramework": "SAMM"
+      }
+    ]
+  }
+}
