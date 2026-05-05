@@ -1,6 +1,6 @@
 # Assessment Framework Extension
 
-This repository contains the specification and JSON Schema for the **Assessment Framework Extension**, an extension to the [SAMM Assessment Format](https://github.com/owaspsamm/samm-assessment-format) that records which security maturity framework was used for an assessment.
+This repository contains the specification and JSON Schema for the **Assessment Framework Extension**, an extension to the [SAMM Assessment Format](https://github.com/DRaichev/SAMM-Assessment-Format) that records which security maturity framework was used for an assessment.
 
 ## Overview
 
@@ -63,7 +63,7 @@ Add the extension to your `.samm` file's `extensions` array:
 
 ## Related
 
-- [SAMM Assessment Format](https://github.com/owaspsamm/samm-assessment-format)
+- [SAMM Assessment Format](https://github.com/DRaichev/SAMM-Assessment-Format)
 - [Assessment Stream Remarks Extension](https://github.com/DRaichev/SAMM-Assessment-Format-Remarks-Extension)
 
 ## License
